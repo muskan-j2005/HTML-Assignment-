@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Organized Page Example</title>
+</head>
+<body>
+
+    <h1>Heading</h1>
+    
+    <p>This page organized by using <strong>HTML</strong> tags.</p>
+
+    <h2>In Part 1:I am using Basic Text Tags</h2>
+    
+    <p>We can  <em>emphasize</em> our text and we can <b>bold</b> our text also we can write our text in  <i>italic</i> .</p>
+     <hr>
+    <h2>In part 2: I am using Quotes</h2>
+    
+    <p>For Large quotes use <strong>blockquote</strong> tag:</p>
+    
+    <blockquote>
+         It defines a section that is quoted from another source.
+    </blockquote>
+    
+    <p> <strong>q</strong> tag is used for normally insert quotation marks around our text like: <q>THIS IS MUSKAN JOSHI.</q></p>
+     <hr>
+    <h2>In part 3: I am using Subscript and Superscript</h2>
+    
+    <p> <strong>H<sub>2</sub>O</strong> or  <strong>E = mc<sup>2</sup></strong> </p>
+     <hr>
+    <h2>In part4: Using Address & References</h2>
+    
+    <address>
+        13 Street Number<br>
+        City YZ, EX 125<br>
+        <br>
+        Email: xyzMuskan@gmail.com
+    </address>
+    
+    <p> for References we use <strong>cite</strong> tag : <cite>HTML5: Assignment 2</cite></p>
+     <hr>
+    <h2>In part 5: using Abbreviations</h2>
+    
+    <p>We use abbreviation like  <abbr title="Muskan Joshi">MJ</abbr>.</p>
+    <hr>
+    <h2>In part 6:using Text Changes</h2>
+    
+    <p>For adding a text use <ins>inserted text</ins> and for deleting a text use <del>deleted text</del> and also we can use <s>strikethrough text</s> for showing that this text was cancelled.</p>
+ <hr>
+  
+ 
+</body>
+</html>
